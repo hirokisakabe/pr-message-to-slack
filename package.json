@@ -16,7 +16,7 @@
     "axios": "0.25.0"
   },
   "devDependencies": {
-    "@types/node": "16.11.21",
+    "@types/node": "16.18.23",
     "@typescript-eslint/eslint-plugin": "5.10.1",
     "@typescript-eslint/parser": "5.10.1",
     "eslint": "8.7.0",
